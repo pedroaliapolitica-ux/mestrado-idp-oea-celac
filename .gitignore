@@ -1,0 +1,40 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups e temporários do editor
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# LaTeX / pdflatex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+
+# Microsoft Word lockfiles
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# Zotero / Mendeley
+*.bib.bak
+
+# Pastas de download manual ainda não fichadas (evitar commit acidental de PDFs sem ficha)
+00_downloads_pendentes/
+*_RASCUNHO*
+
+# Identificadores pessoais e credenciais
+.env
+*.key
+*.pem
+credentials.json
