@@ -30,8 +30,29 @@ mestrado-idp-oea-celac/
 │   ├── Colombia_2016/               (cobertura indireta — pré-2010)
 │   └── CELAC_Bolivarianismo/        Contenção dos EUA ao processo bolivariano
 ├── 04_Fichamentos_ABNT/             Fichas individuais por documento (padrão ABNT)
+│   └── literatura_celac/            5 artigos terceiros sobre CELAC/integração regional
 ├── 05_Matrizes_ACQ/                 Análise de Conteúdo Qualitativa (NV-NI, NV-SOB, NV-AUT)
-└── 06_Bibliografia/                 Referencial teórico e leituras de apoio
+├── 06_Bibliografia/                 Referencial teórico e leituras de apoio
+│   ├── datasets_publish_or_perish/  Exports Google Scholar (PoP) para Cap. 2
+│   └── referencias_complementares/  Artigos de apoio cruzado (fake news, NetLAB)
+├── 07_Midia_Regional/               Matriz de mídia regional por país-caso
+├── 08_Materiais_IDP/                Manuais do programa + planos de ensino das disciplinas cursadas
+├── 09_Textos_Autorais/              Produção do mestrando ao longo do programa
+│   ├── honduras_contrafacao/        Texto principal sobre Honduras 2025 (continuum 2009→2025)
+│   ├── filosofia_politica/          Trabalho final disciplina Filosofia Política
+│   ├── artigos_revista/             Artigos em preparação para revista (PT, Equador, Chile, Irã, Belém)
+│   ├── ensaios_diversos/            Ensaios de outras disciplinas (Aras, Nicarágua, IAs)
+│   └── apresentacoes/               PPTX da dissertação + apresentações principais
+├── 10_Outras_Disciplinas/           Trabalhos de disciplinas cursadas (não diretamente correlatos à dissertação)
+│   ├── comercio_internacional_OMC/  Disciplina IDP Comércio Digital 2025.1
+│   ├── mercosul_ue_acordo/          Plano estratégico ratificação acordo Mercosul-UE
+│   ├── smart_cities_maricá/         Trabalho Smart Cities + Mumbuca + Maricá (IPEA)
+│   ├── governanca_climatica/        Amazônia urbana + apresentação Liderança Setor Público
+│   ├── representacao_feminina/      Apresentações Mulheres Parlamentares (Prof. Pablo)
+│   └── outros/                      Pé de Meia, IOF, coalizões, resenhas avulsas
+├── 11_Instrumentos_Pesquisa/        Roteiro entrevistas, TCLE, TCLI, Quadro Z, Custos
+└── 12_Entrevistas_Anotacoes/        Entrevista Pablo Vilas + anotações trabalho contextuais
+    └── equador_2025_contexto/       Decreto Noboa, lawfare, análises de trabalho (caso fora do recorte)
 ```
 
 ## Marco metodológico
@@ -71,6 +92,7 @@ Venezuela, Nicarágua (2018), Bolívia (2019), Cuba (1962–2014), Haiti (2010),
 | 1 | jun/2026 | Corpus oficial mapeado por caso (Honduras, Paraguai, Colômbia) | `02_Corpus_Oficial/caso{1,2,3}_*.md` |
 | 2 | jun/2026 | Complemento CELAC + correção factual (CELAC não suspendeu Paraguai) + Ata I Reunião de Ministros CELAC (NY, 27/09/2012) | `02_Corpus_Oficial/lote2_complemento.md`, `02_Corpus_Oficial/CELAC/` |
 | 3 ★ | 12/06/2026 | **Chave técnica para atas do CP/OEA** + 1.º documento integral incorporado (CP/ACTA 1700/09, 32 p.) + 8 atas oficiais OEA + 3 atas literais ONU | `02_Corpus_Oficial/lote3_complemento.md`, `02_Corpus_Oficial/OEA/`, `02_Corpus_Oficial/ONU/` |
+| 4 ★ | 12/06/2026 | **Acervo autoral consolidado:** 179 anexos triados em 11 lotes → ~141 mantidos. Inclui Contrafação Honduras 2025 (final), Revisão Integrativa PRISMA (Cap. 2), Entrevista Pablo Vilas (ex-CELAC), 5 artigos terceiros para fichamento, datasets Publish-or-Perish, projeto qualificação (9 versões históricas) | Ver [MATRIZ_TRIAGEM_ANEXOS.md](MATRIZ_TRIAGEM_ANEXOS.md) — todas as pastas `08_` a `12_` |
 
 ### Chave técnica para atas do Conselho Permanente da OEA (lote 3)
 
@@ -115,6 +137,9 @@ pdftotext -layout arquivo.pdf - > arquivo_transcricao.md
 | FICHA_P2 | Cabo 09ASUNCION675 (SUBJECT real: *Scenesetter for A/S Valenzuela's visit to Paraguay*) | Fonte vazada (B) |
 | FICHA_C3 | NSA Colombia Project (Santrich/DEA) | FOIA (B) |
 | FICHA_CL1 | Cabo Brownfield/USAID-OTI | Fonte vazada (B) |
+| FICHA_RIPRISMA | Revisão Integrativa CELAC/OEA (Henrichs, mai/2025) | Texto autoral / PRISMA |
+| FICHA_Contra2025 | Contrafação da Autonomia Política — Honduras 2025 (Henrichs, fev/2026) | Texto autoral |
+| FICHA_PVilas | Entrevista Pablo Vilas (ex-coordenação CELAC) | Entrevista (status preparatório) |
 
 ---
 
