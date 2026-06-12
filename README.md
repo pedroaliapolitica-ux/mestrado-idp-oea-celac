@@ -87,6 +87,22 @@ As páginas `.asp` do sítio oas.org operam atrás de barreira Cloudflare que bl
 
 Isso destrava a fonte mais valiosa do corpus: as falas por delegação, permitindo ACQ no nível do ator (não só do organismo).
 
+## Regra de transcrição (todo PDF → cópia em MD)
+
+Todo documento PDF incorporado ao corpus oficial deve ter uma cópia em Markdown ao lado, com o sufixo `_transcricao.md`. A transcrição automatíca é gerada por `pdftotext -layout` e serve apenas para leitura por assistentes de IA (Claude, Perplexity, GPT) — economia substancial de tokens quando o documento precisa ser consultado.
+
+**Padrão:**
+- `arquivo.pdf` → documento oficial para citação (sempre conferir contra ele).
+- `arquivo_transcricao.md` → texto plano para IAs ou busca de termos. **Nunca citar a transcrição na dissertação** — a transcrição automatica pode conter erros de OCR/extração.
+- `arquivo.md` (sem sufixo) → quando existir, é a transcrição **anotada** à mão com sumarização e marcações analíticas (caso da CP/ACTA 1700/09).
+
+**Comando padrão** para gerar transcrição de novo PDF incorporado ao corpus:
+
+```bash
+pdftotext -layout arquivo.pdf - > arquivo_transcricao.md
+# (acrescentar manualmente o cabeçalho de proveniência com fonte e data de extração)
+```
+
 ## Fichamentos já redigidos (padrão ABNT)
 
 | Ficha | Documento | Tipo |
