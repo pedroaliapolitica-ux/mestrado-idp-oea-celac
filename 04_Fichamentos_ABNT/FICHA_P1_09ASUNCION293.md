@@ -1,8 +1,10 @@
-# Fichamento ABNT — Cabo 09ASUNCION293 ("Lugo impeachment rumors are back", 28/03/2009)
+# Fichamento ABNT — Cabo 09ASUNCION293 ("CIRCLING SHARKS IN LANDLOCKED PARAGUAY", 28/03/2009)
+
+> **Correção de auditoria (12/06/2026):** este fichamento foi inicialmente intitulado com a paráfrase jornalística *"Lugo impeachment rumors are back"*, atribuída ao cabo por veículos como *Cubadebate* (25/06/2012) e *World Socialist Web Site* (03/07/2012). A verificação direta do PlusD revelou que o **SUBJECT real** do cabo 09ASUNCION293 é **"CIRCLING SHARKS IN LANDLOCKED PARAGUAY"**. A paráfrase "impeachment rumors are back" descreve o **conteúdo**, não o título. Idem para "Paraguayan pols plot parliamentary putsch", que aparece em comentários da imprensa como suposto título de um cabo de 2009 mas **não corresponde ao SUBJECT** dos cabos disponíveis no PlusD com canonical IDs 09ASUNCION293 e 09ASUNCION675 (este último tem SUBJECT *"SCENESETTER FOR A/S VALENZUELA'S VISIT TO PARAGUAY"*). A inferência analítica do fichamento permanece válida — a Embaixada dos EUA monitorava em 2009 o plano de impeachment de Lugo —, mas a referência bibliográfica passa a usar o SUBJECT original do telegrama. Este caso ilustra o porquê de a pendência **2.11 do dossiê v2 Claude** (verificação de proveniência cabo a cabo) ser obrigatória antes de qualquer citação na dissertação.
 
 ## 1. Referência completa
 
-ESTADOS UNIDOS DA AMÉRICA. Embaixada em Asunción. **Lugo impeachment rumors are back**. Cabo diplomático nº 09ASUNCION293, classificação CONFIDENTIAL, 28 mar. 2009. Publicado pela WikiLeaks no contexto do *Cablegate*, agosto de 2011. Disponível em: <https://wikileaks.org/plusd/cables/09ASUNCION293_a.html>. Acesso em: 12 jun. 2026.
+ESTADOS UNIDOS DA AMÉRICA. Embaixada em Asunción. **CIRCLING SHARKS IN LANDLOCKED PARAGUAY**. Cabo diplomático nº 09ASUNCION293, classificação CONFIDENTIAL, 28 mar. 2009. Publicado pela WikiLeaks no contexto do *Cablegate*, agosto de 2011. Disponível em: <https://wikileaks.org/plusd/cables/09ASUNCION293_a.html>. Acesso em: 12 jun. 2026.
 
 ## 2. Proveniência e cadeia de custódia
 

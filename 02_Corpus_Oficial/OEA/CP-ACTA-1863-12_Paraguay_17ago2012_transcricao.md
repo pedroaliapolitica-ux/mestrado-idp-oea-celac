@@ -1,6 +1,6 @@
 # CP-ACTA-1863-12_Paraguay_17ago2012 — TRANSCRIÇÃO AUTOMÁTICA
 
-**Fonte:** OEA, Consejo Permanente. Disponível em: https://www.oas.org/consejo/sp/actas/actaCP-ACTA-1863-12_Paraguay_17ago2012.pdf  
+**Fonte:** OEA, Consejo Permanente. Disponível em: https://www.oas.org/consejo/sp/actas/acta1863.pdf (acesso direto via navegador; servidor da OEA retorna 403 para clientes não-interativos; cópia arquivada disponível em https://web.archive.org/web/2020id_/http://www.oas.org/consejo/sp/actas/acta1863.pdf)  
 **Arquivo PDF original:** `CP-ACTA-1863-12_Paraguay_17ago2012.pdf`  
 **Método:** `pdftotext -layout` (transcrição automática, sem revisão humana)  
 **Data da extração:** 12 jun. 2026
