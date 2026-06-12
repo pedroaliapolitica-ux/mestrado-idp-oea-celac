@@ -1,6 +1,8 @@
 # Mestrado IDP — OEA e CELAC na governança regional latino-americana
 
-Repositório privado de pesquisa do mestrado de **Pedro Paulo Henrichs Neto** no programa de Ciência Política e Relações Internacionais do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP), Brasília/DF.
+Repositório de pesquisa do mestrado de **Pedro Paulo Henrichs Neto** no programa de Ciência Política e Relações Internacionais do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP), Brasília/DF.
+
+> **Política de visibilidade.** O repositório opera como **privado por padrão** e é tornado **público apenas em janelas de trabalho conjunto com assistentes de IA externos** (Claude, GPT, Perplexity) que precisam ler arquivos diretamente do GitHub. Encerrada a janela, retorna ao estado privado. Trabalho acadêmico em curso — não distribuir, não citar.
 
 **Título da dissertação:** *Entre hegemonia e autonomia: OEA e CELAC na disputa pela governança regional latino-americana.*
 
@@ -109,10 +111,11 @@ pdftotext -layout arquivo.pdf - > arquivo_transcricao.md
 |---|---|---|
 | FICHA_H1 | Cabo 09TEGUCIGALPA645 (Llorens, Honduras) | Fonte vazada (B) |
 | **FICHA_H2** ★ | CP/ACTA 1700/09 (Honduras, 28/06/2009) | **Fonte primária oficial (A) — integral** |
-| FICHA_P1 | Cabo 09ASUNCION293 ("Lugo impeachment rumors") | Fonte vazada (B) |
+| FICHA_P1 | Cabo 09ASUNCION293 (SUBJECT real: *Circling sharks in landlocked Paraguay*) | Fonte vazada (B) |
+| FICHA_P2 | Cabo 09ASUNCION675 (SUBJECT real: *Scenesetter for A/S Valenzuela's visit to Paraguay*) | Fonte vazada (B) |
 | FICHA_C3 | NSA Colombia Project (Santrich/DEA) | FOIA (B) |
 | FICHA_CL1 | Cabo Brownfield/USAID-OTI | Fonte vazada (B) |
 
 ---
 
-**Confidencialidade.** Repositório privado. Não distribuir sem autorização do autor.
+**Confidencialidade.** Repositório privado por padrão (ver política de visibilidade no topo). Não distribuir sem autorização do autor.

@@ -25,7 +25,7 @@ Todas as 8 transcrições de atas do CP/OEA em `02_Corpus_Oficial/OEA/CP-ACTA-*_
 
 > **Fonte:** OEA, Consejo Permanente. Disponível em: https://www.oas.org/consejo/sp/actas/actaNNNN.pdf (acesso direto via navegador; servidor da OEA retorna 403 para clientes não-interativos; cópia arquivada disponível em https://web.archive.org/web/2020id_/http://www.oas.org/consejo/sp/actas/actaNNNN.pdf)
 
-### 2.2 Ressalva (b) — Visibilidade do repositório — **PENDENTE DE DECISÃO DO AUTOR**
+### 2.2 Ressalva (b) — Visibilidade do repositório — **RESOLVIDA (decisão do autor 12/06/2026)**
 
 O repositório foi tornado público no passo anterior **a pedido explícito do autor** ("deixe o repositório aberto para que seja lido por claude e me dê o link"). O README ainda contém menção à privacidade da v1 do projeto, mas a decisão operacional já é "público". Recomendo:
 
@@ -33,6 +33,8 @@ O repositório foi tornado público no passo anterior **a pedido explícito do a
 - **Opção 2 (assumir a publicação):** manter público, **remover do README qualquer afirmação de privacidade** e adicionar um aviso curto ("Repositório de pesquisa acadêmica pré-defesa; uso reservado a leitores autorizados pelo autor"). Custo: nenhum operacional; aceitar que cabos vazados de domínio público e o projeto integral estão visíveis.
 
 Como o trabalho já está visível e o conjunto não contém dados privados (todos os cabos arquivados são públicos PlusD/NSA), inclino-me pela Opção 2. **Aguardo a palavra final do autor.**
+
+**Decisão do autor (12/06/2026):** **opção híbrida** — "o repositório só vai ficar público nos momentos que estivermos trabalhando, após isso vamos manter privado". O README foi reescrito para refletir essa política (privado por padrão, público apenas em janelas de trabalho conjunto com IAs externas). A alternativa entre as duas opções é operacional: o repositório é alternado entre `private` e `public` manualmente pelo autor a cada janela, mantendo o link permanente estável.
 
 ### 2.3 Ressalva (c) — Elevar 09ASUNCION675 ("Paraguayan pols plot parliamentary putsch") a ficha analítica própria — **EXECUTADA, COM ACHADO DE AUDITORIA REVERSA QUE EXIGE ATENÇÃO**
 
@@ -100,6 +102,18 @@ Aceito o critério da Seção 3 do dossiê (tarefas para Perplexity = navegaçã
 
 **Pergunta ao autor:** prefere que eu execute na ordem A → B → C → D → E (priorizando casos Paraguai e Colômbia, que ainda têm lacunas documentais; Honduras é o mais bem coberto)? Ou prefere outra ordem? Se silêncio em 24h, executo nesta ordem por padrão.
 
+**Decisão do autor (12/06/2026):** **ordem cronológica dos casos** — "deve começar por ordem cronológica, ou seja, Honduras". Sequenciamento revisado para Honduras (2009) → Paraguai (2012) → Colômbia (2016+), com a camada complementar (Bloco E) ao final.
+
+**Ordem de execução efetiva:**
+
+1. **Bloco C — Honduras 2009** (tarefas 4, 6, 9) — CIDH 2009, SICA, Cancún 2010.
+2. **Bloco A — Paraguai 2012 oficial** (tarefas 1, 2, 7, 8) — PPT chilena CELAC, CELAC/DE 011, MERCOSUL Assunção 2009, MOE/OEA 2013.
+3. **Bloco D — Paraguai/CIDH 2012** (tarefa 5) — capítulo Paraguai do Relatório Anual CIDH 2012.
+4. **Bloco B — Colômbia 2016+** (tarefas 3, 10) — MAPP/OEA informes 21–26, manifestação CELAC pós-plebiscito.
+5. **Bloco E — complementar** (tarefas 11, 12, 13, 14) — proveniência + busca "putsch", NSA-GWU Colômbia, imprensa cabo-a-cabo, Wayback preventivo.
+
+Observação analítica sobre a ordem escolhida: começar por Honduras (caso mais bem coberto) tem a vantagem adicional de **encerrar primeiro o caso onde a hipótese H1 ainda dialoga com a tradição OEA pré-CELAC**, antes de avançar para Paraguai (primeiro caso em que a CELAC age como ator) e Colômbia (caso em que OEA e CELAC operam em paralelo). A progressão cronológica espelha, portanto, a própria emergência institucional da CELAC.
+
 ## 5. Alinhamento com "O QUE NÃO FAZER" (Seção 3 do dossiê v2)
 
 Aceito integralmente:
@@ -116,6 +130,13 @@ Sobre os três itens:
 1. **Validação da v2 do projeto de qualificação:** concordo que a revisão linha a linha cabe ao Claude. A v2 (`00_Projeto/projeto_qualificacao_v2_ajustado.md`) contém uma tabela de mudanças no fim do arquivo para facilitar a leitura crítica.
 2. **Visibilidade do repositório:** ver §2.2 acima.
 3. **Confirmação do papel da imprensa (recepção/legitimidade, fora da ACQ):** confirmado. Já redigido nessa chave na subseção 7.3.5 da v2 do projeto e no `07_Midia_Regional/MATRIZ_MIDIA_REGIONAL.md`.
+
+## 7. Decisões do autor consolidadas (12/06/2026)
+
+| # | Tema | Decisão | Referência |
+|---|------|---------|------------|
+| D1 | Visibilidade do repositório | **Privado por padrão; público apenas em janelas de trabalho conjunto com IAs externas.** | README, §2.2 |
+| D2 | Sequenciamento dos 14 itens das Prioridades 1 e 2 | **Ordem cronológica dos casos:** Honduras (2009) → Paraguai (2012) → Colômbia (2016+) → complementar. | §4 |
 
 ---
 
